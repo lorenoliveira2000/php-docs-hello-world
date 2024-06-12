@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! APP 1 ";
+echo "Hello World! APP 2 ";
